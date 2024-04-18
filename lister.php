@@ -40,7 +40,9 @@
                     foreach($listLibelle as $data){
                         echo '<option value="'.$data.'">'.$data.'</option>';
                     }
+                    
                 ?>
+                jhjgjgjjg
             </select>
 
             <select name="category" id="category">
